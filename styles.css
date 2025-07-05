@@ -1,0 +1,382 @@
+ul {
+  list-style-type: none;
+}
+.firstdiv{
+    position: relative;
+    top: 15px;
+    left: 25px;
+    display: flex;
+    height: 80px;
+}
+.firstdiv > ul{
+    display: flex;
+    justify-content: flex-start;
+    gap: 15px;
+    font-size: Open Sans;
+}
+.list2{
+    position: relative;
+    left: 530px;
+    top: -15px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+#store {
+    position: relative;
+    left: -50px;
+}
+
+.rectangle1{
+    width: 80px;
+    height: 30px;
+    position: relative;
+    right: 155px;
+    border: 1px solid black;
+    border-radius: 30px;
+    text-align: center;
+    align-items: center;
+}
+
+.rectangle2{
+     width: 90px;
+    height: 30px;
+    position: relative;
+    right: 150px;
+    border: 1px solid black;
+    border-radius: 30px;
+    text-align: center;
+    align-items: center;
+    background-color: black;
+}
+
+#join{
+    position: relative;
+    left: 36px;
+    z-index: 1;
+    color: white;
+}
+.between{
+    margin-top: -8px;
+    margin-right: -10rem;
+    width: 100%;
+    height: 30px;
+    background-color: white;
+    margin-left : -8px;
+}
+.seconddiv{
+    margin-left: -8px;
+    display: flex;
+    flex-basis: 100px;
+}
+
+.seconddiv > img {
+    width: 50%;
+    height: 100% ;
+}
+
+.seconddiv1{
+    background-color: #32462f;
+    width: 1500px;
+    height: 545px;
+    z-index: 1;
+}
+
+.seconddiv > h1{
+    position: absolute;
+    left: 800px;
+    top: 180px;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    z-index: 1;
+}
+
+.seconddiv > p{
+    position: absolute;
+    left: 750px;
+    top: 350px;
+    text-align:center;
+    color: white;
+    font-size: x-large;
+    width: 400px;
+    z-index: 1;
+
+}
+
+.between1{
+    margin-top: 0px;
+    margin-right: -10rem;
+    width: 100%;
+    height: 30px;
+    background-color: white;
+    margin-left : -8px;
+}
+
+#button1{
+    position: absolute;
+    top: 500px;
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+    border:1px solid white ;
+    left: 870px;
+    font-size: large;
+}
+
+.thirddiv{
+    margin-left: -8px;
+    display: flex;
+    flex-basis: 100px;
+}
+
+.thirddiv1{
+    background-color: #d1d1aa;
+    width: 1500px;
+    height: 366.52px;
+    z-index: 1;
+}
+
+.thirddiv > img {
+     width: 50%;
+    height: 100% ;
+}
+
+.thirddiv > h1{
+    position: absolute;
+    left: 180px;
+    top: 750px;
+    font-size: 30px;
+    text-align: center;
+    color: #32462f;
+    z-index: 1;
+
+}
+
+.thirddiv > p{
+    position: absolute;
+    left: 100px;
+    top: 820px;
+    text-align:center;
+    color: #32462f;
+    font-size: x-large;
+    width: 400px;
+    z-index: 1;
+
+}
+
+#button2{
+    position: absolute;
+    top: 960px;
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+    border:1px solid #32462f ;
+    left: 220px;
+    font-size: large;
+}
+
+.fourthdiv{
+    margin-left: -8px;
+    display: flex;
+    flex-basis: 100px;
+}
+
+.fourthdiv1{
+    background-color: #32462f;
+    width: 1500px;
+    height: 545px;
+    z-index: 1;
+}
+
+.fourthdiv > img {
+    width: 50%;
+    height: 100% ;
+}
+
+
+.fourthdiv > h1{
+    position: absolute;
+    left: 800px;
+    top: 1100px;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    z-index: 1;
+}
+
+.fourthdiv > p{
+    position: absolute;
+    left: 750px;
+    top: 1300px;
+    text-align:center;
+    color: white;
+    font-size: x-large;
+    width: 400px;
+    z-index: 1;
+
+}
+
+#button3{
+    position: absolute;
+    top: 1450px;
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+    border:1px solid white ;
+    left: 870px;
+    font-size: large;
+}
+
+
+.fifthdiv{
+    margin-left: -8px;
+    display: flex;
+    flex-basis: 100px;
+}
+
+.fifthdiv1{
+    background-color: #32462f;
+    width: 1500px;
+    height: 545.43px;
+    z-index: 1;
+}
+
+.fifthdiv > img {
+     width: 50%;
+    height: 100% ;
+}
+
+.fifthdiv > h1{
+    position: absolute;
+    left: 160px;
+    top: 1750px;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    z-index: 1;
+
+}
+
+.fifthdiv > p{
+    position: absolute;
+    left: 100px;
+    top: 1900px;
+    text-align:center;
+    color: white;
+    font-size: x-large;
+    width: 400px;
+    z-index: 1;
+
+}
+
+#button4{
+    position: absolute;
+    top: 2050px;
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+    border:1px solid white ;
+    left: 220px;
+    font-size: large;
+}
+
+
+.sixthdiv{
+    margin-left: -8px;
+    display: flex;
+    flex-basis: 100px;
+}
+
+.sixthdiv1{
+    background-color: #32462f;
+    width: 1500px;
+    height: 545px;
+    z-index: 1;
+}
+
+.sixthdiv > img {
+    width: 50%;
+    height: 100% ;
+}
+
+
+.sixthdiv > h1{
+    position: absolute;
+    left: 800px;
+    top: 2280px;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    z-index: 1;
+}
+
+.sixthdiv > p{
+    position: absolute;
+    left: 750px;
+    top: 2450px;
+    text-align:center;
+    color: white;
+    font-size: x-large;
+    width: 400px;
+    z-index: 1;
+
+}
+
+#button5{
+    position: absolute;
+    top: 2600px;
+    width: 150px;
+    height: 40px;
+    border-radius: 30px;
+    border:1px solid white ;
+    left: 870px;
+    font-size: large;
+}
+
+.last{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    
+    width:100%;
+    height:350px;
+    background-color: white;
+
+    
+}
+.last > p{
+    color: black;
+    text-align: center;
+    z-index: 1;
+    width: 500px;
+    padding-bottom: 10px;
+}
+.last1{
+    margin-top: 4rem;
+    align-items: flex-end;
+}
+
+.about{
+    display: flex;
+    flex-direction: row;
+    line-height: 3rem;
+    justify-content: space-around;
+    align-items: space-around;
+}
+
+.footer1{
+    width:100%;
+    height:350px;
+    background-color: white;
+    line-height: 3rem;
+}
+
+.icon{
+    font-size: 2rem;
+}
+.footer2{
+    margin-top: 2rem;;
+    margin-left: 2.5rem;
+}
